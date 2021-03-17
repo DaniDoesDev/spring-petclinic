@@ -6,7 +6,7 @@ Please see my screen captures in the directory called [imageshw8](imageshw8).
 
 - Your dockerfile. Please provide a link to this file rather than a screen capture.
 
-![Dockerfile](Dockerfile)
+[Dockerfile](Dockerfile)
 
 - Your running docker instance as shown by a ps command.
 
@@ -32,11 +32,11 @@ tainer when you run the application from the host system.
 
 - Your updated docker-compose.yml file containing the application server, built from your local Dockerfile, and the existing MySQL configuration. Please provide a link to this file rather than a screen capture.
 
-![docker-compose.yml](docker-compose.yml)
+[docker-compose.yml](docker-compose.yml)
 
 - Your updated application-mysql.properties file containing the URL change for the database server. Please provide a link to this file rather than a screen capture.
 
-![application-mysql.properties](src/main/resources/application-mysql.properties)
+[application-mysql.properties](src/main/resources/application-mysql.properties)
 
 - The output from the docker-compose up command.
 
